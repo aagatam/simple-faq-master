@@ -1,0 +1,33 @@
+      * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+      }
+
+      body {
+        height: 100vh;
+      }
+
+      .author-info {
+        font-size: 14px;
+        text-align: center;
+        margin-top: 16px;
+        color: rgb(55, 65, 81);
+      }
+
+      .author-info a {
+        text-decoration: none;
+      }
+
+#container 
+{
+    width: 100%;
+    padding: 15px;
+}
+
+@media screen and (min-width: 768px) {
+  #container {
+    width: 750px;
+    padding: 30px;
+  }
+}
