@@ -30,7 +30,7 @@ header
 {
     text-align: center;
     background-color: white;
-    padding:40px 200px;
+    padding: 80px 200px;
 }
 h1 
 {
@@ -48,7 +48,7 @@ h2
 article
 {
     background-color: #F8FAFC;
-    padding: 40px 200px;
+    padding: 40px 300px;
     list-style-position: inside;
     
 }
