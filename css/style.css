@@ -75,14 +75,13 @@ hr
 @media (min-width: 1280px) {
   .container {
     max-width: 1280px;
-    padding: 120px;
     margin: 0px auto;
   }
 }
 @media (min-width: 1025px) and (max-width: 1279px) {
   .container {
     max-width: 1000px;
-    padding: 60px;
+
   }
   article, header {
     padding: 60px;
@@ -91,7 +90,6 @@ hr
 @media (max-width: 1024px) {
   .container {
     max-width: 1024px;
-    padding: 40px;
   }
   article, header {
     padding: 40px;
@@ -101,7 +99,6 @@ hr
 @media (max-width: 640px) {
   .container {
     max-width: 100%;
-    padding: 16px;
   }
   article, header {
     padding: 16px;
