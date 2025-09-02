@@ -7,6 +7,8 @@
       body {
         min-height: 100vh;
         background-color: #D2D5DA;
+        font-family: "Inter", sans-serif;
+
       }
 
       .author-info {
@@ -23,7 +25,6 @@
 .container {
   width: 100%;
   margin: 0 auto;
-  font-family: "Inter", sans-serif;
 }
 header
 {
@@ -51,8 +52,7 @@ article
     
 }
 p{
-    margin-bottom: 20px;
-    margin-top: 20px;
+    margin: 20px 0;
     font-size: 16px;
     font-weight: 400;;
 }
@@ -65,8 +65,7 @@ li
 }
 hr
 {
-    margin-top: 40px;
-    margin-bottom: 40px;
+    margin: 40px 0;
     color: #D2D5DA;
 }
 
