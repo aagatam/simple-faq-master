@@ -5,7 +5,7 @@
       }
 
       body {
-        height: 100vh;
+        min-height: 100vh;
         background-color: #D2D5DA;
       }
 
@@ -46,7 +46,7 @@ h2
 article
 {
     background-color: #F8FAFC;
-    padding: 50px 350px;
+    padding: 50px 15%;
     list-style-position: inside;
     
 }
@@ -80,28 +80,19 @@ a{
   }
 }
 @media (min-width: 1025px) and (max-width: 1279px) {
-
-    article
-  {
-    padding: 60px 80px;
+  article {
+    padding: 60px 7%;
   }
-
 }
-@media (max-width: 1024px) {
 
-  article
-  {
-    padding: 60px 80px;
+@media (max-width: 1024px) {
+  article {
+    padding: 60px 8%;
   }
 }
 
 @media (max-width: 640px) {
-  .container {
-    max-width: 100%;
+  article {
+    padding: 40px 5%;
   }
-  article
-  {
-    padding: 60px 80px;
-  }
-
 }
