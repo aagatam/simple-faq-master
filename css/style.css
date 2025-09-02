@@ -69,6 +69,10 @@ hr
     margin-bottom: 40px;
     color: #D2D5DA;
 }
+
+a{
+  color: #4E80EE;
+}
 /* Large screens (1280px and up) */
 @media (min-width: 1280px) {
   .container {
